@@ -10,4 +10,4 @@ Most of my work is for my employer and its code is private. **[My portfolio](htt
 
 **Stack:** TypeScript · JavaScript · Python · React · Next.js · Node.js · FastAPI · PostgreSQL · Firestore · MongoDB · Redis · Vercel · AWS S3
 
-📫 shahyug6764@gmail.com · [LinkedIn](https://linkedin.com/in/yug-shah06)
+📫 shahyug721@gmail.com · [LinkedIn](https://linkedin.com/in/yug-shah06)
